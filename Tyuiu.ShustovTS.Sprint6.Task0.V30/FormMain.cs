@@ -56,7 +56,7 @@ namespace Tyuiu.ShustovTS.Sprint6.Task1.V30
 
         private void buttonReference_LVA_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Таск 1 выполнил студент группы АСОиУБ-23-2 Лягин Владимир Александрович", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Таск 1 выполнил студент группы АСОиУБ-23-2 Шустов Тимофей Сергеевич", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
 
